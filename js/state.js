@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Flanding\u002Fyr-OgbM81jC\u002Fassets\u002Fstatic\u002F1651543867",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Flanding\u002Fyr-OgbM81jC\u002F",assetsPath:"\u002Flanding\u002Fyr-OgbM81jC\u002Fassets\u002F",cdnURL:a}}}}(null));
